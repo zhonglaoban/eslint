@@ -63,6 +63,7 @@
     "natural-compare": "^1.4.0",
     "optionator": "^0.8.2",
     "path-is-inside": "^1.0.2",
+    "please-upgrade-node": "^3.1.1",
     "pluralize": "^7.0.0",
     "progress": "^2.0.0",
     "regexpp": "^1.1.0",
